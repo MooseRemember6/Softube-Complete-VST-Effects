@@ -1,0 +1,29 @@
+{
+  "repo": "softube-complete-vst-effects",
+  "product": "Softube Complete VST Effects",
+  "kind": "utility",
+  "install_type": "nexpath",
+  "install_url": "https://softube.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "utility",
+  "topics": [
+    "softube",
+    "vst-effects",
+    "analog-modeling",
+    "channel-strip",
+    "mixing-plugins",
+    "studio-fx",
+    "music-production",
+    "audio-processing",
+    "softube-setup-failed-fix",
+    "how-to-install-softube",
+    "softube-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 16,
+  "nexpath_slug": "softube",
+  "nexpath_app_name": "Softube Complete"
+}
